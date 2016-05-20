@@ -64,6 +64,14 @@ h3 {
   background-color: #017fb5;
 }
 
+.navbar-brand {
+    float: left;
+    height: 0px;
+    padding: 0px 0px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
 .navbar-nav li a:hover, 
 .navbar-nav li a:focus {
   outline:none;
@@ -439,6 +447,13 @@ section {
 #portfolio .folio-item:hover .folio-image {
   -webkit-transform: scale(1.5) rotate(-15deg);
   transform: scale(1.5) rotate(-15deg);
+}
+img{
+  width: 50%;
+}
+
+.img-logo{
+  width: 15%;
 }
 
 .folio-image img {
