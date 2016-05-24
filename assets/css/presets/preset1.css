@@ -11,7 +11,7 @@ a,
 
 .btn.btn-primary:hover,
 .btn-submit:hover {
-  background-color: #027db3
+  background-color: #075481;
 }
 
 a:hover, a:focus {
@@ -34,7 +34,7 @@ a:hover, a:focus {
 .left-control:hover, 
 .right-control:hover, 
 .folio-overview a:hover {
-  background-color:#b27550;
+  background-color:#075481;
 }
 
 .twitter-left-control:hover, 
